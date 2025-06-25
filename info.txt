@@ -1,0 +1,2 @@
+# Jenkins Multibranch Pipeline Test
+Build triggered for testing PR detection in Jenkins
