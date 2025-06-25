@@ -1,2 +1,2 @@
 # Jenkins Multibranch Pipeline Test
-Build triggered for testing PR detection in Jenkins
+<h1>Version from QA</h1>
